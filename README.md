@@ -42,11 +42,23 @@ The Power BI dashboard includes interactive visualizations to explore attrition 
 ![Attrition on the basis of various paramenters](./images/Screenshot%20(269).png)
 *This visualization defines attrition on the basis of various parameters*
 
-## Insights and Recommendations
+## 7. Insights and Recommendations
 
 * **Gender-Based Attirition:** It can be seen that more males leave the company comparing to females. More gender specific policies should be implemented to address the concerns of specific genders.
 
+* **Age-Based Attirition:** Age 26-35 have the highest rate of attirition. People in this age group are usually mid-level professionals hence they are more likely to leave for better opportunities. Creating a better employee retention policy such as giving them paid leaves, increase in their ESOPs component and providing better opportunity in organization itself.
 
+* **Education-Based Attirition:** People in Technical, Human Resources and Marketing have higher attirition rate. Need to make sure, that the job role aligns with their skill expectations.
+
+* **Salary-Based Attirition:** People in lower salary slab have higher attirition rate. Reasses their salary structure and benchmark it according to the industry standard. Have a employee loyalty program like increase in thier ESOP's component after spending a particular amount of time in the organization.
+
+* **Low satisfaction based Attirition:** Employees who rated low on satisfaction score have higher attrition rate. Improve the workload, avoid micromanaging, have a clear expectations, conduct mental health workshops monthly to improver their overall wellbeing.
+
+* **Job based attirition:** Job roles such as Laboratory Technician and Sales Executive have high exit rates. Reasses their work condition by taking feedback from them and improve upon it.
+
+## 8. Future  Scope
+* Including other parameter such as Distance from Home and Martial Status to get another picture of attirition rate.
+* Conduct an exit interview to take feedbacks from the employees and improve our work culture upon it.
 
 
 
